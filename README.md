@@ -1,6 +1,8 @@
 # 安裝說明
 首先，Python 版本必須為 3.9
 
+在終端機執行：
+
     pip install git+https://github.com/facebookresearch/audiocraft.git
 
     pip install torchvision==0.16 -f https://download.pytorch.org/whl/torch_stable.html
