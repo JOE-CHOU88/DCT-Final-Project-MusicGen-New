@@ -10,6 +10,8 @@
     pip install torchvision==0.16 -f https://download.pytorch.org/whl/torch_stable.html
 
 (Mac 版)
+
+在終端機執行：
     
     pip3 install git+https://github.com/facebookresearch/audiocraft.git
 
