@@ -1,6 +1,8 @@
 # 安裝說明
 首先，Python 版本必須為 3.9
 
+## Audiocraft
+
 (Window 版)
 
 在終端機執行：
@@ -18,7 +20,7 @@
     pip3 install torchvision==0.16 -f https://download.pytorch.org/whl/torch_stable.html
     
 
-安裝 ffmpeg：
+## ffmpeg
 
 (Window 版)
 
